@@ -1,0 +1,29 @@
+{
+  "name": "node_aws_lambda",
+  "version": "1.0.0",
+  "description": "Lambda fucntion fo running a node app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:iamironman1607/node_aws_lambda.git"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "node",
+    "on",
+    "serverless",
+    "node",
+    "aws"
+  ],
+  "author": "Shubham",
+  "license": "ISC",
+  "dependencies": {
+    "aws-serverless-express": "^3.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
